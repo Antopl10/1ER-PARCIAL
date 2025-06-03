@@ -1,5 +1,7 @@
-}#include <iostream>
+}
+#include <iostream>
 #include <iomanip>
+Antonio de Jesus Pardo Loera 
 using namespace std;
 int main() {
     int n;
